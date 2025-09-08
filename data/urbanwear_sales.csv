@@ -1,0 +1,841 @@
+Data,Canal,Região,Quantidade_Vendas,Receita_Bruta
+2018-01-01,Loja Física,Nordeste,83,6862.82
+2018-01-01,E-commerce,Sudeste,26,1913.43
+2018-01-01,E-commerce,Norte,156,13075.65
+2018-01-01,Loja Física,Sudeste,48,3674.25
+2018-01-01,Loja Física,Nordeste,64,5158.49
+2018-01-01,Loja Física,Centro-Oeste,13,991.19
+2018-01-01,E-commerce,Sul,421,36480.33
+2018-01-01,E-commerce,Nordeste,111,9185.46
+2018-01-01,Parceiros,Sudeste,177,15757.78
+2018-01-01,E-commerce,Sudeste,49,3939.33
+2018-02-01,Loja Física,Sudeste,92,7508.41
+2018-02-01,E-commerce,Sudeste,19,1493.67
+2018-02-01,E-commerce,Centro-Oeste,154,12853.71
+2018-02-01,Parceiros,Sudeste,43,3602.5
+2018-02-01,Loja Física,Nordeste,63,5487.14
+2018-02-01,Loja Física,Centro-Oeste,15,1112.86
+2018-02-01,Loja Física,Centro-Oeste,452,38497.83
+2018-02-01,Loja Física,Sudeste,109,8017.47
+2018-02-01,Parceiros,Sudeste,172,14115.17
+2018-02-01,E-commerce,Sudeste,51,4037.78
+2018-03-01,E-commerce,Sudeste,84,7210.96
+2018-03-01,Loja Física,Sul,24,1945.05
+2018-03-01,Loja Física,Centro-Oeste,166,14247.18
+2018-03-01,Loja Física,Norte,35,2687.95
+2018-03-01,Loja Física,Sudeste,60,5257.74
+2018-03-01,E-commerce,Sul,19,1537.21
+2018-03-01,E-commerce,Sudeste,429,36338.49
+2018-03-01,Parceiros,Sudeste,115,8861.96
+2018-03-01,Loja Física,Sul,159,13328.23
+2018-03-01,Loja Física,Sudeste,46,3739.72
+2018-04-01,Loja Física,Centro-Oeste,91,7756.29
+2018-04-01,E-commerce,Sul,24,1723.17
+2018-04-01,E-commerce,Nordeste,167,14348.9
+2018-04-01,E-commerce,Sudeste,42,3477.54
+2018-04-01,Loja Física,Sudeste,63,4934.14
+2018-04-01,E-commerce,Sudeste,21,1691.85
+2018-04-01,Loja Física,Nordeste,389,31967.57
+2018-04-01,Loja Física,Sul,110,8169.46
+2018-04-01,Loja Física,Sudeste,192,16284.74
+2018-04-01,Loja Física,Norte,58,4705.6
+2018-05-01,Loja Física,Sul,92,7821.2
+2018-05-01,E-commerce,Nordeste,26,2008.97
+2018-05-01,Parceiros,Centro-Oeste,155,13213.37
+2018-05-01,Loja Física,Centro-Oeste,48,3889.06
+2018-05-01,Parceiros,Sul,59,4956.01
+2018-05-01,Loja Física,Norte,17,1248.38
+2018-05-01,Loja Física,Sul,398,35329.91
+2018-05-01,Loja Física,Nordeste,117,8936.81
+2018-05-01,E-commerce,Norte,168,14672.16
+2018-05-01,Loja Física,Sul,47,3714.21
+2018-06-01,Loja Física,Sudeste,99,8703.51
+2018-06-01,E-commerce,Norte,24,1928.3
+2018-06-01,E-commerce,Sudeste,182,14579.5
+2018-06-01,E-commerce,Sudeste,49,3817.95
+2018-06-01,Loja Física,Nordeste,70,5915.66
+2018-06-01,Loja Física,Sudeste,25,1973.52
+2018-06-01,E-commerce,Centro-Oeste,395,33229.8
+2018-06-01,Loja Física,Norte,118,8908.63
+2018-06-01,Loja Física,Nordeste,195,17512.91
+2018-06-01,Loja Física,Sudeste,58,4555.59
+2018-07-01,Loja Física,Sudeste,84,7314.26
+2018-07-01,E-commerce,Sudeste,24,1779.83
+2018-07-01,E-commerce,Nordeste,163,13210.47
+2018-07-01,E-commerce,Sudeste,42,3284.98
+2018-07-01,Loja Física,Nordeste,58,4794.02
+2018-07-01,Loja Física,Nordeste,18,1491.04
+2018-07-01,Loja Física,Sudeste,431,38176.74
+2018-07-01,Loja Física,Norte,100,7362.62
+2018-07-01,E-commerce,Nordeste,188,15505.14
+2018-07-01,E-commerce,Nordeste,63,4802.69
+2018-08-01,Loja Física,Sudeste,103,8442.1
+2018-08-01,Loja Física,Sul,26,2081.26
+2018-08-01,E-commerce,Norte,169,14472.95
+2018-08-01,Loja Física,Norte,47,3716.8
+2018-08-01,Loja Física,Sudeste,60,5144.84
+2018-08-01,Loja Física,Centro-Oeste,18,1363.88
+2018-08-01,Loja Física,Sul,412,33331.18
+2018-08-01,Loja Física,Nordeste,130,10214.89
+2018-08-01,E-commerce,Norte,184,15059.62
+2018-08-01,Loja Física,Sul,55,4063.41
+2018-09-01,E-commerce,Sudeste,90,7589.26
+2018-09-01,Loja Física,Sudeste,29,2508.12
+2018-09-01,Loja Física,Centro-Oeste,159,13154.35
+2018-09-01,Loja Física,Nordeste,41,3093.64
+2018-09-01,E-commerce,Sudeste,63,5399.45
+2018-09-01,E-commerce,Centro-Oeste,18,1450.45
+2018-09-01,E-commerce,Norte,373,32807.0
+2018-09-01,Loja Física,Sudeste,123,9279.05
+2018-09-01,E-commerce,Norte,194,16896.67
+2018-09-01,Parceiros,Norte,52,4363.74
+2018-10-01,E-commerce,Nordeste,84,7152.47
+2018-10-01,Parceiros,Centro-Oeste,25,1860.85
+2018-10-01,Loja Física,Nordeste,151,12663.07
+2018-10-01,Loja Física,Sudeste,37,2984.86
+2018-10-01,Loja Física,Sudeste,64,5468.26
+2018-10-01,Loja Física,Sudeste,15,1188.03
+2018-10-01,E-commerce,Nordeste,425,34964.42
+2018-10-01,Loja Física,Centro-Oeste,101,8030.04
+2018-10-01,Loja Física,Sudeste,177,15258.6
+2018-10-01,E-commerce,Sudeste,54,4199.73
+2018-11-01,Loja Física,Centro-Oeste,101,8459.99
+2018-11-01,Loja Física,Sul,29,2269.41
+2018-11-01,E-commerce,Sudeste,202,17464.07
+2018-11-01,Loja Física,Sudeste,79,6441.89
+2018-11-01,Loja Física,Nordeste,81,6819.88
+2018-11-01,Loja Física,Sudeste,23,1848.46
+2018-11-01,E-commerce,Nordeste,500,43880.89
+2018-11-01,Loja Física,Sul,144,11705.45
+2018-11-01,E-commerce,Sudeste,192,16572.16
+2018-11-01,Loja Física,Sudeste,53,4218.96
+2018-12-01,Loja Física,Sudeste,113,9414.31
+2018-12-01,Loja Física,Centro-Oeste,38,3065.06
+2018-12-01,Loja Física,Sudeste,229,19038.5
+2018-12-01,Loja Física,Sudeste,73,5743.3
+2018-12-01,E-commerce,Sudeste,95,8594.37
+2018-12-01,Loja Física,Sul,24,1919.47
+2018-12-01,Loja Física,Norte,720,62459.97
+2018-12-01,E-commerce,Sul,131,9558.85
+2018-12-01,Loja Física,Sudeste,260,22142.62
+2018-12-01,Loja Física,Nordeste,85,6344.18
+2019-01-01,E-commerce,Nordeste,99,8527.04
+2019-01-01,Loja Física,Centro-Oeste,26,2090.84
+2019-01-01,E-commerce,Centro-Oeste,185,15130.18
+2019-01-01,Loja Física,Centro-Oeste,53,4285.78
+2019-01-01,Loja Física,Nordeste,74,6003.29
+2019-01-01,Loja Física,Norte,22,1682.76
+2019-01-01,Loja Física,Centro-Oeste,379,32703.04
+2019-01-01,E-commerce,Nordeste,124,10006.94
+2019-01-01,Loja Física,Nordeste,163,13657.59
+2019-01-01,Loja Física,Sudeste,54,4101.93
+2019-02-01,E-commerce,Sul,91,7751.2
+2019-02-01,Loja Física,Sudeste,26,1996.74
+2019-02-01,Loja Física,Sudeste,156,13833.34
+2019-02-01,Loja Física,Nordeste,51,3749.53
+2019-02-01,E-commerce,Norte,69,5692.3
+2019-02-01,Loja Física,Sudeste,20,1588.84
+2019-02-01,Loja Física,Sudeste,375,28775.54
+2019-02-01,Loja Física,Sudeste,125,9350.49
+2019-02-01,Loja Física,Nordeste,176,15692.63
+2019-02-01,Loja Física,Nordeste,48,3529.82
+2019-03-01,Loja Física,Sudeste,96,8358.99
+2019-03-01,Loja Física,Sudeste,29,2318.97
+2019-03-01,Loja Física,Sudeste,166,14021.9
+2019-03-01,Loja Física,Centro-Oeste,47,3593.71
+2019-03-01,E-commerce,Sudeste,60,5154.62
+2019-03-01,Loja Física,Centro-Oeste,22,1668.44
+2019-03-01,E-commerce,Sul,409,36419.14
+2019-03-01,Loja Física,Sudeste,136,10082.77
+2019-03-01,Loja Física,Sul,211,17853.33
+2019-03-01,Loja Física,Centro-Oeste,43,3432.93
+2019-04-01,Loja Física,Sudeste,95,8153.53
+2019-04-01,Loja Física,Nordeste,27,2095.04
+2019-04-01,Loja Física,Sudeste,169,14271.19
+2019-04-01,Loja Física,Sul,49,3989.98
+2019-04-01,Loja Física,Sul,67,5918.04
+2019-04-01,Loja Física,Sudeste,22,1717.44
+2019-04-01,E-commerce,Norte,378,32850.32
+2019-04-01,E-commerce,Sul,118,9428.71
+2019-04-01,Loja Física,Sudeste,180,15886.45
+2019-04-01,Loja Física,Sudeste,57,4340.79
+2019-05-01,Loja Física,Nordeste,84,7228.45
+2019-05-01,Loja Física,Nordeste,27,2058.51
+2019-05-01,E-commerce,Sul,170,14444.69
+2019-05-01,E-commerce,Sudeste,54,4060.83
+2019-05-01,Loja Física,Nordeste,63,5511.65
+2019-05-01,Loja Física,Norte,18,1395.74
+2019-05-01,Loja Física,Sudeste,408,33828.72
+2019-05-01,E-commerce,Sudeste,135,11411.31
+2019-05-01,E-commerce,Sudeste,166,14600.23
+2019-05-01,E-commerce,Sudeste,48,3862.56
+2019-06-01,Loja Física,Sudeste,99,8496.47
+2019-06-01,Loja Física,Sudeste,30,2262.57
+2019-06-01,Loja Física,Nordeste,168,14413.19
+2019-06-01,E-commerce,Sudeste,54,4460.57
+2019-06-01,E-commerce,Norte,74,6286.41
+2019-06-01,Loja Física,Sudeste,21,1572.31
+2019-06-01,E-commerce,Sul,416,35619.86
+2019-06-01,E-commerce,Nordeste,143,10927.82
+2019-06-01,Loja Física,Nordeste,191,15529.71
+2019-06-01,Parceiros,Sul,63,4637.35
+2019-07-01,Loja Física,Sul,96,8696.06
+2019-07-01,Loja Física,Nordeste,29,2188.87
+2019-07-01,E-commerce,Centro-Oeste,163,13865.19
+2019-07-01,Loja Física,Sudeste,46,3659.47
+2019-07-01,E-commerce,Nordeste,70,6334.34
+2019-07-01,Loja Física,Sudeste,22,1663.33
+2019-07-01,Loja Física,Nordeste,422,35752.96
+2019-07-01,Loja Física,Sul,149,11808.75
+2019-07-01,E-commerce,Centro-Oeste,190,16258.57
+2019-07-01,E-commerce,Nordeste,53,4136.08
+2019-08-01,Loja Física,Sudeste,78,6607.22
+2019-08-01,E-commerce,Sudeste,33,2701.45
+2019-08-01,Loja Física,Sudeste,174,14391.37
+2019-08-01,Loja Física,Sul,47,3738.14
+2019-08-01,E-commerce,Sudeste,56,4928.42
+2019-08-01,Loja Física,Norte,24,1836.87
+2019-08-01,E-commerce,Nordeste,378,30082.78
+2019-08-01,Loja Física,Norte,117,8934.08
+2019-08-01,Loja Física,Norte,169,14512.28
+2019-08-01,E-commerce,Norte,57,4779.66
+2019-09-01,Loja Física,Sul,101,8888.73
+2019-09-01,Loja Física,Norte,28,2189.9
+2019-09-01,Loja Física,Sudeste,164,14237.6
+2019-09-01,E-commerce,Nordeste,54,4022.52
+2019-09-01,Loja Física,Sul,55,4721.61
+2019-09-01,E-commerce,Sudeste,23,1740.29
+2019-09-01,Loja Física,Sul,353,30009.72
+2019-09-01,Loja Física,Nordeste,117,9143.15
+2019-09-01,Loja Física,Nordeste,174,14316.3
+2019-09-01,E-commerce,Centro-Oeste,60,4653.35
+2019-10-01,Loja Física,Sudeste,102,8226.95
+2019-10-01,Loja Física,Sudeste,23,1790.01
+2019-10-01,Loja Física,Sudeste,176,14428.95
+2019-10-01,E-commerce,Sudeste,40,2865.5
+2019-10-01,E-commerce,Nordeste,62,5507.52
+2019-10-01,E-commerce,Sul,21,1642.85
+2019-10-01,Loja Física,Sul,472,39820.35
+2019-10-01,Loja Física,Sul,153,12397.79
+2019-10-01,E-commerce,Centro-Oeste,189,15599.96
+2019-10-01,Loja Física,Nordeste,65,5209.13
+2019-11-01,Loja Física,Sul,107,8943.94
+2019-11-01,E-commerce,Sul,29,2153.62
+2019-11-01,Loja Física,Nordeste,186,15780.27
+2019-11-01,Loja Física,Sul,53,4291.94
+2019-11-01,Loja Física,Nordeste,70,5855.35
+2019-11-01,Loja Física,Centro-Oeste,25,1888.16
+2019-11-01,Loja Física,Sudeste,501,39943.74
+2019-11-01,E-commerce,Norte,151,11736.01
+2019-11-01,Loja Física,Sudeste,193,16585.42
+2019-11-01,E-commerce,Sudeste,73,5479.93
+2019-12-01,Loja Física,Sudeste,141,13092.01
+2019-12-01,Loja Física,Centro-Oeste,44,3585.7
+2019-12-01,E-commerce,Nordeste,233,19641.58
+2019-12-01,Loja Física,Sudeste,70,4957.26
+2019-12-01,Loja Física,Sudeste,83,7403.16
+2019-12-01,Loja Física,Sul,34,2625.58
+2019-12-01,Loja Física,Sudeste,703,58500.64
+2019-12-01,Loja Física,Sudeste,190,14946.85
+2019-12-01,Loja Física,Sudeste,268,23199.72
+2019-12-01,Loja Física,Centro-Oeste,82,6589.8
+2020-01-01,E-commerce,Norte,66,5462.63
+2020-01-01,Loja Física,Nordeste,42,3094.8
+2020-01-01,E-commerce,Norte,147,12492.01
+2020-01-01,Loja Física,Sudeste,86,7105.1
+2020-01-01,Loja Física,Centro-Oeste,51,4533.08
+2020-01-01,Loja Física,Nordeste,27,2151.4
+2020-01-01,E-commerce,Sudeste,321,25970.04
+2020-01-01,E-commerce,Sul,173,13603.82
+2020-01-01,Loja Física,Centro-Oeste,135,11252.42
+2020-01-01,E-commerce,Sudeste,72,5373.04
+2020-02-01,E-commerce,Sudeste,75,6394.0
+2020-02-01,Loja Física,Sudeste,38,3053.08
+2020-02-01,Loja Física,Nordeste,130,11139.66
+2020-02-01,Loja Física,Centro-Oeste,70,5449.03
+2020-02-01,E-commerce,Norte,49,4092.93
+2020-02-01,Loja Física,Sudeste,27,2169.63
+2020-02-01,Loja Física,Centro-Oeste,348,28338.91
+2020-02-01,Parceiros,Sul,240,19141.55
+2020-02-01,E-commerce,Sudeste,137,11438.05
+2020-02-01,Loja Física,Centro-Oeste,82,6174.96
+2020-03-01,Loja Física,Sudeste,67,5866.93
+2020-03-01,E-commerce,Centro-Oeste,41,3124.2
+2020-03-01,Loja Física,Sudeste,132,11434.95
+2020-03-01,Loja Física,Sul,70,5097.12
+2020-03-01,E-commerce,Sudeste,50,4166.89
+2020-03-01,Loja Física,Nordeste,26,2031.84
+2020-03-01,E-commerce,Sudeste,281,23410.2
+2020-03-01,E-commerce,Nordeste,208,16594.3
+2020-03-01,Loja Física,Sudeste,135,10914.72
+2020-03-01,Loja Física,Sudeste,68,5314.2
+2020-04-01,Loja Física,Norte,69,5934.4
+2020-04-01,Loja Física,Sudeste,41,3144.15
+2020-04-01,E-commerce,Sudeste,133,11334.37
+2020-04-01,Loja Física,Nordeste,72,5581.03
+2020-04-01,Loja Física,Sudeste,55,4722.35
+2020-04-01,E-commerce,Nordeste,31,2378.16
+2020-04-01,E-commerce,Nordeste,346,29877.45
+2020-04-01,Loja Física,Nordeste,169,13942.11
+2020-04-01,Loja Física,Norte,116,10030.7
+2020-04-01,Loja Física,Centro-Oeste,78,6034.59
+2020-05-01,E-commerce,Norte,73,5929.76
+2020-05-01,Parceiros,Sul,47,3833.72
+2020-05-01,E-commerce,Sudeste,110,9355.17
+2020-05-01,E-commerce,Nordeste,75,6242.29
+2020-05-01,Parceiros,Centro-Oeste,52,4529.98
+2020-05-01,E-commerce,Sul,30,2133.04
+2020-05-01,E-commerce,Sudeste,332,28957.49
+2020-05-01,E-commerce,Sudeste,244,18783.8
+2020-05-01,E-commerce,Centro-Oeste,158,12608.84
+2020-05-01,Loja Física,Norte,83,6212.95
+2020-06-01,E-commerce,Sudeste,77,6457.76
+2020-06-01,Loja Física,Norte,42,3325.44
+2020-06-01,Loja Física,Sudeste,152,12947.74
+2020-06-01,Loja Física,Sudeste,77,5891.25
+2020-06-01,E-commerce,Nordeste,58,5083.45
+2020-06-01,Loja Física,Sudeste,35,2674.31
+2020-06-01,Loja Física,Sul,366,31700.58
+2020-06-01,Loja Física,Sudeste,204,17357.25
+2020-06-01,Loja Física,Nordeste,161,13496.41
+2020-06-01,Loja Física,Sul,98,7384.15
+2020-07-01,E-commerce,Norte,73,6294.54
+2020-07-01,E-commerce,Sul,47,3698.83
+2020-07-01,E-commerce,Sudeste,111,9620.22
+2020-07-01,Loja Física,Nordeste,92,7160.04
+2020-07-01,E-commerce,Sul,52,4744.31
+2020-07-01,Loja Física,Sudeste,26,2038.48
+2020-07-01,E-commerce,Nordeste,344,30002.82
+2020-07-01,E-commerce,Sudeste,174,14307.95
+2020-07-01,Loja Física,Sul,149,12371.0
+2020-07-01,Parceiros,Sudeste,106,7856.37
+2020-08-01,Loja Física,Sul,77,6291.72
+2020-08-01,Loja Física,Sudeste,44,3254.21
+2020-08-01,Loja Física,Sudeste,130,10488.95
+2020-08-01,Loja Física,Nordeste,88,7283.95
+2020-08-01,Loja Física,Nordeste,50,4120.96
+2020-08-01,Loja Física,Sudeste,29,2112.27
+2020-08-01,Loja Física,Nordeste,304,27298.95
+2020-08-01,E-commerce,Sudeste,206,16932.73
+2020-08-01,Loja Física,Sudeste,162,13361.19
+2020-08-01,Loja Física,Sudeste,81,6286.21
+2020-09-01,E-commerce,Sul,72,6156.37
+2020-09-01,Loja Física,Sudeste,43,3334.63
+2020-09-01,E-commerce,Sudeste,127,11393.78
+2020-09-01,E-commerce,Nordeste,85,6928.77
+2020-09-01,Loja Física,Centro-Oeste,49,4486.54
+2020-09-01,Loja Física,Sul,26,2032.8
+2020-09-01,Loja Física,Sudeste,315,26566.48
+2020-09-01,Loja Física,Sudeste,234,17154.59
+2020-09-01,E-commerce,Sul,141,11015.33
+2020-09-01,E-commerce,Sudeste,84,6537.77
+2020-10-01,Loja Física,Sudeste,66,5767.47
+2020-10-01,Loja Física,Sudeste,53,4344.26
+2020-10-01,E-commerce,Nordeste,102,8994.11
+2020-10-01,Loja Física,Sudeste,88,6294.73
+2020-10-01,Loja Física,Sul,49,3989.13
+2020-10-01,E-commerce,Nordeste,29,2191.62
+2020-10-01,E-commerce,Sudeste,309,26239.19
+2020-10-01,Loja Física,Norte,182,13887.42
+2020-10-01,Loja Física,Sul,136,11471.57
+2020-10-01,Loja Física,Nordeste,88,7276.94
+2020-11-01,Loja Física,Sul,89,7774.71
+2020-11-01,Loja Física,Sudeste,44,3406.62
+2020-11-01,Loja Física,Nordeste,164,13789.04
+2020-11-01,Loja Física,Nordeste,99,8080.09
+2020-11-01,E-commerce,Sul,55,4758.18
+2020-11-01,Loja Física,Nordeste,39,3004.33
+2020-11-01,E-commerce,Norte,411,34385.28
+2020-11-01,E-commerce,Nordeste,203,16143.95
+2020-11-01,E-commerce,Sul,156,13164.4
+2020-11-01,Loja Física,Sudeste,113,8681.85
+2020-12-01,E-commerce,Centro-Oeste,109,9163.93
+2020-12-01,E-commerce,Sudeste,66,5136.27
+2020-12-01,E-commerce,Sudeste,162,13857.17
+2020-12-01,Loja Física,Nordeste,141,10955.45
+2020-12-01,Loja Física,Sudeste,72,6113.09
+2020-12-01,Loja Física,Sul,48,3909.23
+2020-12-01,Loja Física,Nordeste,466,38773.03
+2020-12-01,E-commerce,Centro-Oeste,330,24289.85
+2020-12-01,E-commerce,Sul,189,15447.9
+2020-12-01,E-commerce,Sudeste,140,11686.49
+2021-01-01,Loja Física,Nordeste,83,7407.5
+2021-01-01,Loja Física,Nordeste,38,3084.26
+2021-01-01,E-commerce,Centro-Oeste,140,11969.92
+2021-01-01,Loja Física,Norte,55,4122.11
+2021-01-01,Loja Física,Nordeste,59,5169.84
+2021-01-01,Parceiros,Sudeste,19,1510.02
+2021-01-01,Loja Física,Sul,373,30422.67
+2021-01-01,Loja Física,Sudeste,122,9798.92
+2021-01-01,Loja Física,Sudeste,164,13947.71
+2021-01-01,E-commerce,Nordeste,66,5219.57
+2021-02-01,Loja Física,Centro-Oeste,84,6956.14
+2021-02-01,Loja Física,Sudeste,35,2806.47
+2021-02-01,E-commerce,Sul,139,11487.76
+2021-02-01,Loja Física,Sul,51,3762.92
+2021-02-01,E-commerce,Sudeste,52,4294.11
+2021-02-01,Loja Física,Sudeste,27,2327.75
+2021-02-01,Loja Física,Sudeste,311,25939.49
+2021-02-01,Loja Física,Nordeste,130,10150.58
+2021-02-01,Loja Física,Sudeste,169,14445.49
+2021-02-01,E-commerce,Centro-Oeste,62,4689.88
+2021-03-01,Loja Física,Norte,76,6445.57
+2021-03-01,E-commerce,Nordeste,33,2637.9
+2021-03-01,E-commerce,Sul,138,11979.06
+2021-03-01,E-commerce,Nordeste,75,5718.38
+2021-03-01,E-commerce,Sudeste,60,5195.14
+2021-03-01,Loja Física,Sudeste,27,1973.72
+2021-03-01,Loja Física,Sul,348,31851.82
+2021-03-01,E-commerce,Nordeste,155,12043.55
+2021-03-01,Loja Física,Centro-Oeste,177,15029.21
+2021-03-01,Loja Física,Nordeste,62,5178.54
+2021-04-01,Loja Física,Sudeste,81,6890.85
+2021-04-01,E-commerce,Sudeste,37,2889.44
+2021-04-01,Loja Física,Nordeste,145,12483.85
+2021-04-01,Loja Física,Sudeste,49,3853.75
+2021-04-01,Loja Física,Norte,58,4770.11
+2021-04-01,Loja Física,Sudeste,20,1625.72
+2021-04-01,Loja Física,Sul,370,31808.72
+2021-04-01,Loja Física,Sudeste,128,10227.84
+2021-04-01,Loja Física,Centro-Oeste,169,14724.38
+2021-04-01,Loja Física,Sudeste,77,6116.31
+2021-05-01,E-commerce,Sul,83,7072.42
+2021-05-01,E-commerce,Sudeste,38,3090.32
+2021-05-01,E-commerce,Nordeste,160,13523.76
+2021-05-01,E-commerce,Sul,55,4214.54
+2021-05-01,E-commerce,Sul,63,5520.77
+2021-05-01,Loja Física,Nordeste,24,1760.76
+2021-05-01,Loja Física,Sul,392,33416.08
+2021-05-01,Loja Física,Centro-Oeste,144,11024.31
+2021-05-01,Loja Física,Sudeste,156,13348.36
+2021-05-01,Loja Física,Sudeste,65,4972.91
+2021-06-01,Loja Física,Nordeste,100,8751.0
+2021-06-01,Loja Física,Sudeste,33,2551.97
+2021-06-01,E-commerce,Norte,155,12643.61
+2021-06-01,Loja Física,Nordeste,65,4883.7
+2021-06-01,Parceiros,Sudeste,57,4839.96
+2021-06-01,Loja Física,Sudeste,24,1889.54
+2021-06-01,E-commerce,Sudeste,384,34891.08
+2021-06-01,Loja Física,Norte,197,15142.98
+2021-06-01,E-commerce,Sul,172,15312.8
+2021-06-01,Parceiros,Sudeste,88,6720.44
+2021-07-01,Parceiros,Centro-Oeste,76,6352.98
+2021-07-01,Loja Física,Sudeste,36,2879.09
+2021-07-01,Loja Física,Sudeste,138,11510.72
+2021-07-01,E-commerce,Centro-Oeste,57,4347.21
+2021-07-01,Loja Física,Sudeste,54,4785.6
+2021-07-01,Loja Física,Nordeste,27,2057.92
+2021-07-01,E-commerce,Norte,363,29815.75
+2021-07-01,Loja Física,Nordeste,165,13066.86
+2021-07-01,Loja Física,Sudeste,164,14060.93
+2021-07-01,E-commerce,Nordeste,72,6167.56
+2021-08-01,Loja Física,Sudeste,78,6626.73
+2021-08-01,Loja Física,Sudeste,35,2859.77
+2021-08-01,Loja Física,Sul,153,12935.96
+2021-08-01,Parceiros,Nordeste,76,5738.71
+2021-08-01,E-commerce,Sudeste,50,4245.78
+2021-08-01,E-commerce,Sudeste,22,1839.18
+2021-08-01,E-commerce,Nordeste,370,32910.07
+2021-08-01,E-commerce,Centro-Oeste,125,10450.39
+2021-08-01,E-commerce,Sul,154,13202.26
+2021-08-01,E-commerce,Nordeste,65,5137.83
+2021-09-01,E-commerce,Centro-Oeste,80,7046.13
+2021-09-01,E-commerce,Norte,35,2640.79
+2021-09-01,Loja Física,Nordeste,153,13325.11
+2021-09-01,Loja Física,Nordeste,69,5491.21
+2021-09-01,E-commerce,Sudeste,62,5488.52
+2021-09-01,Loja Física,Sul,27,2160.65
+2021-09-01,Loja Física,Nordeste,438,36683.35
+2021-09-01,Loja Física,Sudeste,143,11619.86
+2021-09-01,Loja Física,Sudeste,171,14789.62
+2021-09-01,Loja Física,Sudeste,83,6380.96
+2021-10-01,E-commerce,Nordeste,85,7128.24
+2021-10-01,Loja Física,Nordeste,35,2751.19
+2021-10-01,E-commerce,Sudeste,153,12884.92
+2021-10-01,Loja Física,Norte,77,6058.65
+2021-10-01,Loja Física,Nordeste,58,4915.91
+2021-10-01,E-commerce,Sudeste,28,2208.38
+2021-10-01,Loja Física,Sul,375,31902.49
+2021-10-01,Loja Física,Sudeste,146,11970.36
+2021-10-01,E-commerce,Nordeste,164,13371.31
+2021-10-01,Loja Física,Sudeste,68,5462.33
+2021-11-01,E-commerce,Nordeste,89,7620.33
+2021-11-01,Loja Física,Sudeste,44,3354.56
+2021-11-01,Loja Física,Sudeste,197,16466.1
+2021-11-01,Loja Física,Sul,73,6122.45
+2021-11-01,Loja Física,Sudeste,60,5167.32
+2021-11-01,E-commerce,Sul,21,1605.11
+2021-11-01,E-commerce,Centro-Oeste,475,40536.06
+2021-11-01,Loja Física,Nordeste,161,12206.32
+2021-11-01,Loja Física,Sudeste,213,17801.42
+2021-11-01,Loja Física,Sul,67,5304.85
+2021-12-01,E-commerce,Nordeste,125,10806.61
+2021-12-01,Loja Física,Norte,54,4287.43
+2021-12-01,E-commerce,Nordeste,218,18395.9
+2021-12-01,Loja Física,Sudeste,94,7435.25
+2021-12-01,Parceiros,Centro-Oeste,77,6528.87
+2021-12-01,Loja Física,Sudeste,42,3422.41
+2021-12-01,Loja Física,Sudeste,491,42549.08
+2021-12-01,Loja Física,Sudeste,254,19733.41
+2021-12-01,Parceiros,Sudeste,279,22629.67
+2021-12-01,Loja Física,Sudeste,89,6749.87
+2022-01-01,E-commerce,Nordeste,77,6234.0
+2022-01-01,E-commerce,Sudeste,26,2089.68
+2022-01-01,Loja Física,Nordeste,144,12287.04
+2022-01-01,E-commerce,Nordeste,55,4173.13
+2022-01-01,E-commerce,Sudeste,60,5031.73
+2022-01-01,E-commerce,Sul,24,1730.51
+2022-01-01,Loja Física,Sul,379,32404.93
+2022-01-01,E-commerce,Norte,193,15480.93
+2022-01-01,Loja Física,Centro-Oeste,159,13240.76
+2022-01-01,E-commerce,Sul,87,7274.85
+2022-02-01,Loja Física,Norte,92,7686.0
+2022-02-01,Loja Física,Sul,40,3191.46
+2022-02-01,E-commerce,Nordeste,142,12145.46
+2022-02-01,Parceiros,Sudeste,67,4799.2
+2022-02-01,E-commerce,Sudeste,55,4534.52
+2022-02-01,Loja Física,Norte,24,1850.95
+2022-02-01,E-commerce,Sudeste,383,31610.6
+2022-02-01,E-commerce,Sul,175,13623.95
+2022-02-01,Loja Física,Sudeste,160,14213.39
+2022-02-01,E-commerce,Sul,64,5167.19
+2022-03-01,E-commerce,Norte,76,6397.92
+2022-03-01,Loja Física,Sul,35,2776.32
+2022-03-01,Loja Física,Centro-Oeste,156,13784.06
+2022-03-01,E-commerce,Nordeste,62,4874.22
+2022-03-01,Loja Física,Sudeste,65,5812.74
+2022-03-01,Loja Física,Centro-Oeste,24,1886.82
+2022-03-01,Loja Física,Nordeste,401,34145.98
+2022-03-01,Loja Física,Sudeste,185,14056.59
+2022-03-01,E-commerce,Sudeste,169,14750.78
+2022-03-01,Loja Física,Sul,77,6158.59
+2022-04-01,E-commerce,Sudeste,72,6161.21
+2022-04-01,Loja Física,Nordeste,30,2438.01
+2022-04-01,E-commerce,Sudeste,151,12735.9
+2022-04-01,E-commerce,Nordeste,58,4222.05
+2022-04-01,Loja Física,Sudeste,58,4858.54
+2022-04-01,E-commerce,Nordeste,28,2321.5
+2022-04-01,E-commerce,Sul,376,31936.65
+2022-04-01,E-commerce,Sul,155,13126.0
+2022-04-01,Loja Física,Sul,182,15487.64
+2022-04-01,Parceiros,Sudeste,78,6113.21
+2022-05-01,E-commerce,Sudeste,80,6910.89
+2022-05-01,E-commerce,Norte,42,3227.43
+2022-05-01,Loja Física,Norte,161,13428.18
+2022-05-01,E-commerce,Sudeste,78,6180.32
+2022-05-01,E-commerce,Centro-Oeste,58,4848.61
+2022-05-01,Loja Física,Sudeste,27,2049.42
+2022-05-01,Parceiros,Sudeste,409,35890.01
+2022-05-01,E-commerce,Sul,157,12227.14
+2022-05-01,E-commerce,Sudeste,158,13692.82
+2022-05-01,E-commerce,Sudeste,82,5992.7
+2022-06-01,Loja Física,Sudeste,77,6839.67
+2022-06-01,E-commerce,Sudeste,39,3145.45
+2022-06-01,Loja Física,Sudeste,153,12986.69
+2022-06-01,E-commerce,Nordeste,76,6041.12
+2022-06-01,Parceiros,Sudeste,62,5427.51
+2022-06-01,Loja Física,Sul,24,1835.03
+2022-06-01,E-commerce,Centro-Oeste,421,37018.26
+2022-06-01,Loja Física,Norte,121,8781.22
+2022-06-01,E-commerce,Sudeste,171,13970.45
+2022-06-01,E-commerce,Nordeste,70,5713.52
+2022-07-01,Loja Física,Sudeste,81,7074.27
+2022-07-01,E-commerce,Sudeste,28,2214.27
+2022-07-01,E-commerce,Sudeste,141,11959.26
+2022-07-01,E-commerce,Sul,65,5062.45
+2022-07-01,Loja Física,Sudeste,59,5125.23
+2022-07-01,Loja Física,Sudeste,26,2021.45
+2022-07-01,Loja Física,Sudeste,350,29462.94
+2022-07-01,Loja Física,Sudeste,160,13516.71
+2022-07-01,E-commerce,Norte,165,14458.49
+2022-07-01,E-commerce,Sudeste,78,6142.11
+2022-08-01,E-commerce,Sul,96,8209.23
+2022-08-01,E-commerce,Centro-Oeste,37,3007.29
+2022-08-01,E-commerce,Sudeste,137,11578.39
+2022-08-01,Loja Física,Sudeste,82,6451.63
+2022-08-01,Loja Física,Centro-Oeste,60,5123.01
+2022-08-01,Loja Física,Sudeste,27,2136.74
+2022-08-01,E-commerce,Nordeste,389,35136.56
+2022-08-01,E-commerce,Sudeste,109,8454.53
+2022-08-01,E-commerce,Sul,174,15061.89
+2022-08-01,E-commerce,Sudeste,65,4856.37
+2022-09-01,E-commerce,Nordeste,88,7614.06
+2022-09-01,E-commerce,Centro-Oeste,32,2566.01
+2022-09-01,Loja Física,Sul,143,12272.18
+2022-09-01,Loja Física,Sudeste,69,5472.83
+2022-09-01,E-commerce,Sul,63,5315.78
+2022-09-01,Loja Física,Centro-Oeste,27,2187.21
+2022-09-01,E-commerce,Sul,392,33958.47
+2022-09-01,Loja Física,Sudeste,190,14142.43
+2022-09-01,Loja Física,Norte,181,15524.68
+2022-09-01,E-commerce,Sudeste,64,4841.39
+2022-10-01,Loja Física,Sudeste,76,6650.27
+2022-10-01,E-commerce,Sul,47,3618.37
+2022-10-01,E-commerce,Sul,163,13442.93
+2022-10-01,Loja Física,Sudeste,60,4276.89
+2022-10-01,Loja Física,Sudeste,53,4726.92
+2022-10-01,Parceiros,Nordeste,22,1785.31
+2022-10-01,E-commerce,Sudeste,352,29785.31
+2022-10-01,E-commerce,Sul,194,15208.01
+2022-10-01,Loja Física,Sudeste,158,12988.31
+2022-10-01,Loja Física,Sudeste,74,5439.52
+2022-11-01,Loja Física,Sul,83,6845.76
+2022-11-01,E-commerce,Norte,44,3280.5
+2022-11-01,E-commerce,Sudeste,181,15735.28
+2022-11-01,Loja Física,Sudeste,88,6941.2
+2022-11-01,E-commerce,Sul,68,5649.26
+2022-11-01,E-commerce,Sudeste,31,2390.85
+2022-11-01,E-commerce,Nordeste,346,28183.98
+2022-11-01,Loja Física,Centro-Oeste,255,18580.92
+2022-11-01,Parceiros,Nordeste,208,18414.22
+2022-11-01,E-commerce,Sudeste,115,9172.33
+2022-12-01,E-commerce,Sul,120,10268.52
+2022-12-01,E-commerce,Centro-Oeste,59,4853.11
+2022-12-01,Loja Física,Sudeste,226,19270.73
+2022-12-01,E-commerce,Sul,88,6497.73
+2022-12-01,E-commerce,Sudeste,80,6475.03
+2022-12-01,Loja Física,Centro-Oeste,40,3174.97
+2022-12-01,E-commerce,Sudeste,548,47863.26
+2022-12-01,E-commerce,Sudeste,291,21272.11
+2022-12-01,E-commerce,Sul,221,18231.32
+2022-12-01,E-commerce,Nordeste,124,9585.09
+2023-01-01,Loja Física,Centro-Oeste,75,6215.24
+2023-01-01,Loja Física,Nordeste,41,3472.41
+2023-01-01,E-commerce,Centro-Oeste,127,10392.17
+2023-01-01,Loja Física,Sudeste,87,6597.92
+2023-01-01,Loja Física,Norte,52,4380.89
+2023-01-01,E-commerce,Nordeste,31,2538.68
+2023-01-01,E-commerce,Sudeste,360,30712.27
+2023-01-01,Loja Física,Sul,171,13627.86
+2023-01-01,E-commerce,Sudeste,159,13230.38
+2023-01-01,Parceiros,Sudeste,80,6074.54
+2023-02-01,Loja Física,Sudeste,90,7780.58
+2023-02-01,Loja Física,Sudeste,37,3073.98
+2023-02-01,E-commerce,Sudeste,154,12871.07
+2023-02-01,Loja Física,Norte,91,6709.09
+2023-02-01,Parceiros,Sudeste,55,4562.28
+2023-02-01,Loja Física,Sudeste,37,3075.22
+2023-02-01,E-commerce,Sul,323,27977.01
+2023-02-01,E-commerce,Sudeste,187,14827.43
+2023-02-01,Loja Física,Sudeste,156,13277.43
+2023-02-01,E-commerce,Centro-Oeste,79,6125.77
+2023-03-01,Loja Física,Norte,90,7488.2
+2023-03-01,Loja Física,Norte,42,3268.69
+2023-03-01,Loja Física,Sudeste,145,12447.34
+2023-03-01,E-commerce,Sul,59,4755.44
+2023-03-01,E-commerce,Centro-Oeste,47,4142.14
+2023-03-01,Parceiros,Sul,29,2152.55
+2023-03-01,Loja Física,Nordeste,346,28896.78
+2023-03-01,E-commerce,Sudeste,176,13170.78
+2023-03-01,Loja Física,Sul,150,12763.04
+2023-03-01,E-commerce,Sul,68,5140.64
+2023-04-01,E-commerce,Nordeste,94,8036.03
+2023-04-01,E-commerce,Nordeste,42,3235.49
+2023-04-01,E-commerce,Sul,134,11762.9
+2023-04-01,E-commerce,Centro-Oeste,83,6631.74
+2023-04-01,E-commerce,Sudeste,51,4492.76
+2023-04-01,E-commerce,Sudeste,27,2117.94
+2023-04-01,E-commerce,Nordeste,372,32131.06
+2023-04-01,E-commerce,Sul,182,13673.2
+2023-04-01,E-commerce,Sudeste,161,13639.34
+2023-04-01,E-commerce,Nordeste,66,4961.87
+2023-05-01,Loja Física,Sul,85,7282.96
+2023-05-01,E-commerce,Sudeste,39,3081.14
+2023-05-01,Loja Física,Nordeste,130,11178.81
+2023-05-01,E-commerce,Sudeste,53,4546.24
+2023-05-01,Loja Física,Sul,55,4686.48
+2023-05-01,Loja Física,Sudeste,31,2408.44
+2023-05-01,E-commerce,Nordeste,360,31250.04
+2023-05-01,E-commerce,Sudeste,177,14334.33
+2023-05-01,E-commerce,Norte,148,11887.02
+2023-05-01,E-commerce,Sudeste,67,5332.19
+2023-06-01,E-commerce,Sul,80,6675.66
+2023-06-01,Loja Física,Sul,42,3251.5
+2023-06-01,E-commerce,Sudeste,170,14439.15
+2023-06-01,Parceiros,Sudeste,84,6766.32
+2023-06-01,Loja Física,Sudeste,68,5781.8
+2023-06-01,E-commerce,Sudeste,33,2438.93
+2023-06-01,E-commerce,Norte,371,31369.48
+2023-06-01,Loja Física,Nordeste,222,16792.54
+2023-06-01,E-commerce,Sudeste,182,15483.08
+2023-06-01,Loja Física,Centro-Oeste,79,6159.75
+2023-07-01,Loja Física,Sudeste,75,6300.76
+2023-07-01,Parceiros,Norte,39,3062.74
+2023-07-01,E-commerce,Sudeste,129,11468.54
+2023-07-01,Loja Física,Sudeste,77,6298.8
+2023-07-01,E-commerce,Sudeste,54,4610.47
+2023-07-01,E-commerce,Nordeste,33,2539.29
+2023-07-01,Loja Física,Sudeste,358,30365.64
+2023-07-01,E-commerce,Centro-Oeste,191,15187.92
+2023-07-01,E-commerce,Nordeste,159,13134.15
+2023-07-01,Loja Física,Norte,61,4730.58
+2023-08-01,Loja Física,Sul,76,6173.39
+2023-08-01,E-commerce,Nordeste,42,3300.03
+2023-08-01,Loja Física,Sudeste,127,10416.06
+2023-08-01,E-commerce,Norte,70,5066.45
+2023-08-01,Loja Física,Sudeste,58,4844.73
+2023-08-01,Loja Física,Centro-Oeste,31,2167.39
+2023-08-01,Loja Física,Centro-Oeste,361,31087.22
+2023-08-01,Loja Física,Nordeste,180,14708.67
+2023-08-01,E-commerce,Nordeste,170,13342.88
+2023-08-01,E-commerce,Sudeste,66,5340.4
+2023-09-01,E-commerce,Sul,75,6259.18
+2023-09-01,Loja Física,Sudeste,45,3766.37
+2023-09-01,Loja Física,Nordeste,138,11669.14
+2023-09-01,Loja Física,Sul,64,5333.79
+2023-09-01,E-commerce,Sudeste,49,4348.82
+2023-09-01,Loja Física,Sudeste,23,1778.98
+2023-09-01,E-commerce,Sudeste,356,30368.56
+2023-09-01,E-commerce,Sudeste,193,14468.06
+2023-09-01,E-commerce,Sul,174,14777.88
+2023-09-01,Loja Física,Sudeste,78,5856.88
+2023-10-01,E-commerce,Sudeste,71,6252.33
+2023-10-01,Loja Física,Sudeste,35,2658.27
+2023-10-01,E-commerce,Nordeste,143,12322.73
+2023-10-01,Loja Física,Sul,65,4932.56
+2023-10-01,E-commerce,Norte,64,5380.38
+2023-10-01,E-commerce,Sul,28,2200.13
+2023-10-01,Loja Física,Centro-Oeste,376,34028.43
+2023-10-01,E-commerce,Sudeste,169,12862.62
+2023-10-01,Parceiros,Sul,168,14837.67
+2023-10-01,E-commerce,Centro-Oeste,83,6878.37
+2023-11-01,E-commerce,Nordeste,95,8445.27
+2023-11-01,E-commerce,Sudeste,50,3979.22
+2023-11-01,E-commerce,Norte,167,14760.61
+2023-11-01,Loja Física,Sul,84,6697.78
+2023-11-01,Loja Física,Nordeste,69,5751.77
+2023-11-01,Loja Física,Sudeste,42,3397.58
+2023-11-01,E-commerce,Sul,392,34505.23
+2023-11-01,E-commerce,Nordeste,230,18455.92
+2023-11-01,E-commerce,Sudeste,205,16681.75
+2023-11-01,E-commerce,Sudeste,87,7193.52
+2023-12-01,Parceiros,Sudeste,116,10005.23
+2023-12-01,Loja Física,Nordeste,72,5781.08
+2023-12-01,Loja Física,Sudeste,210,18014.62
+2023-12-01,E-commerce,Sul,104,8376.69
+2023-12-01,Loja Física,Centro-Oeste,89,7527.07
+2023-12-01,Loja Física,Sudeste,39,3076.38
+2023-12-01,Loja Física,Norte,558,46910.71
+2023-12-01,E-commerce,Sudeste,305,22991.41
+2023-12-01,Loja Física,Sudeste,218,19673.05
+2023-12-01,Loja Física,Nordeste,92,6859.34
+2024-01-01,Loja Física,Sudeste,83,7327.98
+2024-01-01,Loja Física,Sudeste,45,3604.51
+2024-01-01,Loja Física,Sudeste,155,13297.07
+2024-01-01,Loja Física,Sudeste,78,6498.25
+2024-01-01,E-commerce,Nordeste,56,4840.75
+2024-01-01,E-commerce,Norte,39,2827.75
+2024-01-01,E-commerce,Sudeste,371,31706.26
+2024-01-01,Loja Física,Norte,221,16343.81
+2024-01-01,E-commerce,Sudeste,162,13551.63
+2024-01-01,Loja Física,Sudeste,79,6306.53
+2024-02-01,E-commerce,Sudeste,78,6453.48
+2024-02-01,Loja Física,Centro-Oeste,45,3448.58
+2024-02-01,Loja Física,Sul,127,11182.53
+2024-02-01,E-commerce,Nordeste,82,6239.99
+2024-02-01,E-commerce,Norte,54,4481.92
+2024-02-01,E-commerce,Sudeste,30,2400.68
+2024-02-01,Loja Física,Sudeste,348,29394.51
+2024-02-01,Parceiros,Sudeste,165,12432.15
+2024-02-01,Loja Física,Nordeste,149,13299.48
+2024-02-01,E-commerce,Centro-Oeste,92,7289.29
+2024-03-01,E-commerce,Sudeste,91,7972.63
+2024-03-01,Loja Física,Sudeste,49,3912.59
+2024-03-01,E-commerce,Sudeste,124,10365.5
+2024-03-01,Loja Física,Nordeste,89,7652.36
+2024-03-01,E-commerce,Norte,52,4624.48
+2024-03-01,E-commerce,Nordeste,31,2612.03
+2024-03-01,Loja Física,Norte,373,33347.6
+2024-03-01,E-commerce,Sul,185,14199.33
+2024-03-01,Loja Física,Norte,159,12939.92
+2024-03-01,Loja Física,Sudeste,96,6960.6
+2024-04-01,Loja Física,Sudeste,88,7250.17
+2024-04-01,Loja Física,Sudeste,46,3854.1
+2024-04-01,Loja Física,Sudeste,142,11656.59
+2024-04-01,E-commerce,Centro-Oeste,91,7043.02
+2024-04-01,Loja Física,Nordeste,52,4409.04
+2024-04-01,E-commerce,Sudeste,23,1785.26
+2024-04-01,Loja Física,Nordeste,374,31009.68
+2024-04-01,Parceiros,Nordeste,181,14116.09
+2024-04-01,E-commerce,Sudeste,154,13363.47
+2024-04-01,E-commerce,Sudeste,81,6559.42
+2024-05-01,Loja Física,Sudeste,82,6725.37
+2024-05-01,E-commerce,Sul,40,2761.54
+2024-05-01,E-commerce,Sudeste,135,11523.5
+2024-05-01,E-commerce,Sudeste,67,4856.33
+2024-05-01,E-commerce,Sul,56,4693.45
+2024-05-01,Loja Física,Sul,30,2190.74
+2024-05-01,Loja Física,Sul,387,32671.49
+2024-05-01,E-commerce,Sul,207,15526.36
+2024-05-01,E-commerce,Nordeste,152,13650.47
+2024-05-01,E-commerce,Nordeste,97,8033.05
+2024-06-01,E-commerce,Norte,92,8170.18
+2024-06-01,E-commerce,Sudeste,43,3317.63
+2024-06-01,E-commerce,Nordeste,165,13982.86
+2024-06-01,E-commerce,Sudeste,98,7581.72
+2024-06-01,Loja Física,Sul,56,4727.66
+2024-06-01,Loja Física,Sul,30,2374.39
+2024-06-01,E-commerce,Sul,387,34534.41
+2024-06-01,Loja Física,Centro-Oeste,258,19756.06
+2024-06-01,E-commerce,Sudeste,164,13522.48
+2024-06-01,E-commerce,Nordeste,100,7894.16
+2024-07-01,E-commerce,Nordeste,68,5652.62
+2024-07-01,E-commerce,Sul,49,3698.13
+2024-07-01,E-commerce,Sul,123,10704.12
+2024-07-01,Parceiros,Nordeste,72,5334.24
+2024-07-01,E-commerce,Nordeste,56,4826.61
+2024-07-01,E-commerce,Sul,25,1947.22
+2024-07-01,Loja Física,Nordeste,352,27744.0
+2024-07-01,Loja Física,Sudeste,176,14213.45
+2024-07-01,E-commerce,Centro-Oeste,166,14138.36
+2024-07-01,E-commerce,Sudeste,83,6607.61
+2024-08-01,E-commerce,Centro-Oeste,82,6974.35
+2024-08-01,E-commerce,Sudeste,54,4089.35
+2024-08-01,Loja Física,Sul,132,10859.12
+2024-08-01,Loja Física,Sudeste,78,5373.06
+2024-08-01,Loja Física,Nordeste,57,4501.55
+2024-08-01,Parceiros,Nordeste,33,2470.04
+2024-08-01,Loja Física,Centro-Oeste,358,29502.66
+2024-08-01,E-commerce,Nordeste,220,17202.34
+2024-08-01,E-commerce,Nordeste,162,13842.89
+2024-08-01,E-commerce,Sul,93,7147.5
+2024-09-01,E-commerce,Nordeste,80,6713.02
+2024-09-01,E-commerce,Sudeste,39,3181.74
+2024-09-01,Loja Física,Sudeste,145,12217.1
+2024-09-01,Loja Física,Sudeste,75,5484.21
+2024-09-01,Loja Física,Sudeste,59,4987.85
+2024-09-01,Parceiros,Sul,30,2638.87
+2024-09-01,Loja Física,Sul,347,28923.42
+2024-09-01,Loja Física,Sudeste,225,16988.97
+2024-09-01,Parceiros,Sudeste,151,12882.23
+2024-09-01,Loja Física,Sudeste,76,6313.24
+2024-10-01,E-commerce,Sul,72,6498.68
+2024-10-01,Loja Física,Sudeste,45,3360.12
+2024-10-01,E-commerce,Sudeste,142,12245.52
+2024-10-01,E-commerce,Nordeste,85,6405.55
+2024-10-01,E-commerce,Nordeste,52,4375.61
+2024-10-01,Loja Física,Norte,34,2609.18
+2024-10-01,Loja Física,Centro-Oeste,356,31094.48
+2024-10-01,Parceiros,Nordeste,160,12146.46
+2024-10-01,E-commerce,Centro-Oeste,180,15094.68
+2024-10-01,Loja Física,Centro-Oeste,97,7953.69
+2024-11-01,Loja Física,Nordeste,95,7831.17
+2024-11-01,Loja Física,Sul,60,4893.39
+2024-11-01,E-commerce,Sul,185,15998.44
+2024-11-01,E-commerce,Sul,122,9640.01
+2024-11-01,Loja Física,Sudeste,67,5752.83
+2024-11-01,E-commerce,Sudeste,35,2697.74
+2024-11-01,Loja Física,Sudeste,424,35953.89
+2024-11-01,Parceiros,Sudeste,272,21599.9
+2024-11-01,E-commerce,Sudeste,172,14537.92
+2024-11-01,E-commerce,Sul,109,8837.23
+2024-12-01,E-commerce,Sudeste,129,11293.39
+2024-12-01,E-commerce,Norte,76,5825.65
+2024-12-01,Loja Física,Sudeste,226,19072.3
+2024-12-01,Loja Física,Nordeste,124,9530.08
+2024-12-01,E-commerce,Sul,80,7129.54
+2024-12-01,E-commerce,Sudeste,40,3079.77
+2024-12-01,E-commerce,Sul,584,46480.13
+2024-12-01,Loja Física,Sudeste,286,21765.63
+2024-12-01,Loja Física,Sudeste,259,21355.01
+2024-12-01,E-commerce,Sudeste,129,9858.84
